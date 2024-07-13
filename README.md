@@ -10,7 +10,6 @@ The dataset used in this project is the [Kaggle Credit Card Fraud Detection data
 - **Data Preparation**: Handle missing values and class imbalances.
 - **MLP Model**: Build and train a Multi-Layer Perceptron (MLP) model for classification.
 - **Autoencoder Model**: Build and train an Autoencoder model for anomaly detection.
-- **API Integration**: Integrate the MLP model into a Flask API for real-time predictions.
 
 ## Installation
 To run this project, you'll need to have Python installed. You can install the necessary packages using pip:
